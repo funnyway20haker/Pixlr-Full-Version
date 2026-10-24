@@ -240,4 +240,4 @@ This repository serves as the official landing page for Pixlr. The software is d
 **Get the most recent version of Pixlr today!**
 
 ---
-**Last updated:** 2026-10-23 21:59:47 UTC
+**Last updated:** 2026-10-24 00:31:59 UTC
